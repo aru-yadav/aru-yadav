@@ -1,7 +1,21 @@
-﻿### Aryan Yadav
+# Aryan Yadav
 
- Making Self-taught systems .... building indigenous systems 
+Building **Silent Knot** — a post-quantum transport and provenance
+layer for defence sensor networks. Rust, formally verified crypto
+paths, built for contested links. TRL 3, development private.
 
-**[ecg-ed-triage](https://github.com/aru-yadav/ecg-ed-triage)** — MI detection from 12-lead ECG. 3-model 1D-ResNet ensemble, honest patient-grouped fold-10 evaluation (AUROC 0.9249), FastAPI service with Grad-CAM explainability. Fully reproducible from a clean clone.
+B.Tech CSE, MIT ADT Pune.
 
-*** curently working on Medimaarg for SIH 2026
+### Other work
+
+**[ANVAYA](link)** — Coarse-alignment tracker for free-space optical
+comms. SIH 2026, ISRO problem statement SIH26169. 
+
+**[MediMaarg](link)** — AI symptom triage and care navigation for
+urban India. SIH 2026. In progress 
+
+**[ECG triage](link)** — MI-detection ML ensemble, hardened into a
+reproducible public artifact. 
+
+email - aryanassociate2558@gmail.com
+
