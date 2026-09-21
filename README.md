@@ -1,8 +1,6 @@
 # Aryan Yadav
 
-Building **Silent Knot** — a post-quantum transport and provenance
-layer for defence sensor networks. Rust, formally verified crypto
-paths, built for contested links. TRL 3, development private.
+Building **Silent Knot** 
 
 B.Tech CSE, MIT ADT Pune.
 
@@ -12,7 +10,7 @@ B.Tech CSE, MIT ADT Pune.
 comms. SIH 2026, ISRO problem statement SIH26169. 
 
 **[MediMaarg](link)** — AI symptom triage and care navigation for
-urban India. SIH 2026. In progress 
+urban India.  In progress 
 
 **[ECG triage](link)** — MI-detection ML ensemble, hardened into a
 reproducible public artifact. 
